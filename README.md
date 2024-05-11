@@ -1,3 +1,6 @@
+[![Windows](./svg/Windows.svg "Windows Support")](https://github.com/TRKako/ISM?tab=readme-ov-file#how-to-use-ism)
+[![Linux](./svg/Linux.svg "Linux Support")](https://github.com/TRKako/ISM?tab=readme-ov-file#how-to-use-ism)
+
 # ISM
 ### How to install ISM (Internet Speed Measurement)
 First you need to clone from GitHub the ISM repository by running this command on your terminal 
@@ -18,7 +21,12 @@ Im not going to enter in detail since I already explained it in the script, to s
 
 After you are ready with the TOKEN, you are ready to start using ISM, now you can run "run.bat" and it will begin to measure your internet Speed.
 
+
+> ##### PD: If you are using Linux, then you only have to run the "run.sh" file, its gonna have the same effect as "run.bat"
+
+
 ## You are ready!
 Thank you for using this repo, just made it for fun tbh
 
 ###### -Kako
+###### [![Kako](./svg/Arusu.svg "Kako")](https://github.com/TRKako)
