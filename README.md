@@ -1,5 +1,5 @@
 [![Windows](./svg/Windows.svg "Windows Support")](https://github.com/TRKako/ISM?tab=readme-ov-file#how-to-use-ism)
-[![Linux](./svg/Linux.svg "Linux Support")](https://github.com/TRKako/ISM?tab=readme-ov-file#how-to-use-ism)
+[![Linux](./svg/Linux.svg "Linux Support")](https://github.com/TRKako/ISM?tab=readme-ov-file#pd-if-you-are-using-linux-then-you-only-have-to-run-the-runsh-file-its-gonna-have-the-same-effect-as-runbat)
 
 # ISM
 ### How to install ISM (Internet Speed Measurement)
